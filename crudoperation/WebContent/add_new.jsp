@@ -22,22 +22,22 @@
             <form action="UserControler">
                 <div class="form-group">
                     <label>First Name</label>
-                    <input type="text" class="form-control span12" name="fname">
+                    <input type="text" class="form-control span6" name="fname">
                 </div>
                 <div class="form-group">
                     <label>Email Address</label>
-                    <input type="text" class="form-control span12" name="email">
+                    <input type="text" class="form-control span6" name="email">
                 </div>
                 <div class="form-group">
                     <label>Username</label>
-                    <input type="text" class="form-control span12" name="username">
+                    <input type="text" class="form-control span6" name="username">
                 </div>
                 <div class="form-group">
                     <label>Password</label>
                     <input type="password" class="form-control span12" name="password">
                 </div>
                 <div class="form-group">
-                    <input type="submit" class="btn btn-primary pull-right" name="adddata"></a>
+                    <input type="submit" class="btn btn-sucess pull-right" name="adddata"></a>
                   </div>
                 </div>
                     <div class="clearfix"></div>
