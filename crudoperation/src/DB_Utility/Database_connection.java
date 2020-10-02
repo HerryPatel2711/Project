@@ -1,10 +1,11 @@
 package DB_Utility;
+import java.util.*;
 import java.sql.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Database_connection 
+public class Database_connection // Database Connection Class
 {
 	public static Connection getConnection() throws ClassNotFoundException, SQLException
 	{
