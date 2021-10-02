@@ -57,7 +57,7 @@ public class UserControler extends HttpServlet {
 		}
 	
 	
-		
+		// handling update of data
 		if(request.getParameter("update_data")!=null)
 		{
 			int id= Integer.parseInt( request.getParameter("id"));
