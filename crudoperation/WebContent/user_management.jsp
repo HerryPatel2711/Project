@@ -36,6 +36,7 @@
     </tr>
   </thead>
   <tbody>
+	  <!-- table content -->
   <form  name="frm">
   <%ArrayList<UserBean> uobj = Method_utility.userList();
   for(UserBean u : uobj)
