@@ -1,5 +1,6 @@
 package Bean;
 
+// this is a bean class it is also known as POJO class, it contains only Variable and its getter and setter method with its constructor.
 public class UserBean 
 {
 	String name,email,username,password;
