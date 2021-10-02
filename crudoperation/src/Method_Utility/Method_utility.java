@@ -12,7 +12,7 @@ import javax.servlet.http.HttpSession;
 import Bean.UserBean;
 import DB_Utility.Database_connection;
 
-
+//main method utility
 public class Method_utility
 {
 	
@@ -40,7 +40,7 @@ public class Method_utility
 		 
 		
 	}
-	
+	//update user
 	public static void update_user_records(UserBean Uobj)
 	{
 		 Connection conn;
