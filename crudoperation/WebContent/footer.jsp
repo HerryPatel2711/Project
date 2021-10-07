@@ -22,5 +22,5 @@
         });
     </script>
     
-  
+  <! Footer code changes>
 </body></html>
